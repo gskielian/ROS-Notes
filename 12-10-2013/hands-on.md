@@ -6,7 +6,7 @@ Introduction
 3. [Build](#build)
 4. [Source the workspace](#source-the-workspace)
 
-![Click here to download the todo list]
+[Click to open then copy todo-list](https://trello.com/b/2k5dmOvG/ros)
 
 ----
 
