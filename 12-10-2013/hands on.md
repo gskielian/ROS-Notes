@@ -1,10 +1,10 @@
 Introduction
 ============
 
-1. [Source the environment](source-the-environment)
-2. [Created a catkin workspace](create-a-catkin-workspace)
-3. [Build](build)
-4. [Source the workspace](source-the-workspace)
+1. [Source the environment](#source-the-environment)
+2. [Created a catkin workspace](#create-a-catkin-workspace)
+3. [Build](#build)
+4. [Source the workspace](#source-the-workspace)
 
 ![Click here to download the todo list]
 
