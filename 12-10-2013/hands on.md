@@ -1,3 +1,13 @@
+Introduction
+============
+
+1. Source the environment
+2. Created a catkin workspace
+3. Build
+4. Source the workspace
+
+![Click here to download the todo list]
+
 Source the environment
 ----------------------
 
