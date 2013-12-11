@@ -16,7 +16,7 @@ Source the environment
 
 `source /opt/ros/hydro/setup.bash`
 
-Create a catkin workspace 
+Create a catkin workspace
 -------------------------
 
 ```bash
