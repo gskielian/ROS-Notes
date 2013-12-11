@@ -3,7 +3,8 @@ Source the environment
 
 `source /opt/ros/hydro/setup.bash`
 
-create a catkin workspace 
+Create a catkin workspace 
+-------------------------
 
 ```bash
 mkdir -p ~/catkin_ws/src
